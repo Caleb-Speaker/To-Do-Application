@@ -16,7 +16,6 @@ This application is written in Python 3.x, and no external libraries are require
 ## How to Use
 
 1. **Clone** the repository to your local machine using the following command:
-'''sh
 git clone https://github.com/Caleb-Speaker/To-Do-Application
 cd repository name
 2. Open a terminal (or Command Prompt) and navigate to the folder where the file is saved.
